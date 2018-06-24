@@ -1,4 +1,4 @@
-###This a project to learn Structural Design Patterns
+###This a project to learn Structural Design Patterns###
 According to Gang of four:
 Java design patterns are classified into three types:
 (I) Creational design patterns
